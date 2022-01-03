@@ -1,0 +1,52 @@
+
+h1{
+    font-family: Arial;
+    font-size: 40px;
+    color: blue;
+}
+
+table, th, td{
+    border: 1px solid silver;
+    text-align: left;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+tr td{
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(22, 14, 14);
+}
+.row1{
+    background-color: rgb(205, 178, 233);
+}
+.row2{
+    background-color: rgb(147, 207, 129);
+}
+.row3{
+    background-color: rgb(121, 194, 212);
+}
+.row4{
+    background-color: rgb(184, 209, 137);
+}
+.row5{
+    background-color: rgb(141, 212, 159);
+}
+a{
+    background-color: red;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: blue;
+    color: white;
+
+}
